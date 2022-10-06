@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+   
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Splash', cursive;
+    /* background-color: rgb(34, 32, 32); */
+    display: flex;
+    flex-direction: row;
+    /* padding: 0.8rem; */
+    /* font-size: 1rem; */
+    box-shadow: 0 0.3rem 0.3rem 0 rgb(25, 23, 23);
+    /* position:fixed; */
+    /* width: 100vw; */
+    
+}
+.header__div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+.header__gif{
+    width: 100%;
+    margin: 2rem 0 2rem 32rem;
+    height: 7rem;
+    width: 8rem;
+}
+.header__text{
+    color: rgb(183, 185, 194);
+    width: 100%;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    /* background:  linear-gradient(to right,#ae9d9d, #191819); */
+    /* display: flex;
+    flex-direction: row; */
+}
+.header__img{
+height: 3rem;
+}
+div h1{
+ font-size: 2.5rem;
+ color: aqua;
+}
+.recipe__search{
+    margin-left: 50rem;
+    padding: 1rem;
+   
+}
+.search__icon{
+    color: azure;
+    margin-right: 1rem;
+    margin-bottom: -0.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+div button{
+    margin-left: 1rem;
+    height: 2rem;
+    width: 5rem;
+    color: rgb(43, 183, 226);
+    font-weight: bolder;
+}
+.recipe__input{
+    width: 15rem;
+    height: 2rem;
+    /* margin-right: 2rem; */
+}
+.recipe__content{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left:5rem;
+}

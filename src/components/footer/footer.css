@@ -1,0 +1,25 @@
+.footer__content{
+    background-color: rgb(16, 16, 18);
+    padding: 1rem 1rem ;
+    text-align: center;
+    font-size:2rem;
+    /* margin-top:7rem; */
+    height: 5rem;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Splash', cursive;
+}
+div h2{
+ color: aqua;
+}
+.footer__img{
+    margin-bottom: 3em;
+    height: 8rem;
+    margin-left: 34rem;
+}    
+.footer__copyright{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 1.25rem !important; 
+    background: black!important;
+}
